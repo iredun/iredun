@@ -1,7 +1,7 @@
 ## Hi there, I'm Ivan - aka iredun 👋
 
 # 💫 About Me:
-I'm a Backend developer and Teacher! Sometimes streamer 📺<br>🔭 I’m currently working on Sitronics IT<br>🌱 I’m currently learning GIS<br>👯 I’m looking to collaborate with other content creators, teacher and developers<br>⚡ Fun fact: I love to ride a longboard 🛹
+I'm a Backend developer and Teacher! Sometimes streamer 📺<br>🔭 I’m currently working on Tinkoff<br>🌱 I’m currently learning GO<br>👯 I’m looking to collaborate with other content creators, teacher and developers<br>⚡ Fun fact: I love to ride a longboard 🛹
 
 
 ## 🌐 Socials:
